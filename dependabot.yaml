@@ -1,0 +1,10 @@
+version: 2
+updates:
+  - package-ecosytem: "/"
+    directory: "/"
+
+  - package-ecosystem: "npm"
+    directory: "/packages/a"
+
+  - package-ecosystem: "npm"
+    directory: "/packages/b"
