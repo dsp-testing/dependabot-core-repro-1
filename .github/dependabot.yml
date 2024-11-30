@@ -4,13 +4,16 @@ updates:
     directory: "/"
     schedule:
       interval: weekly
+    open-pull-requests-limit: 1
 
   - package-ecosystem: "npm"
     directory: "/packages/a"
     schedule:
       interval: weekly
+    open-pull-requests-limit: 1
 
   - package-ecosystem: "npm"
     directory: "/packages/b"
     schedule:
       interval: weekly
+    open-pull-requests-limit: 1
