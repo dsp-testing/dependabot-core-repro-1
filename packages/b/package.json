@@ -1,7 +1,7 @@
 {
   "name": "package-b",
   "dependencies": {
-    "immer": "~10.0.0",
+    "immer": "~10.1.1",
     "lodash": "*"
   }
 }
