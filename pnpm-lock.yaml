@@ -17,22 +17,22 @@ importers:
   packages/b:
     dependencies:
       immer:
-        specifier: ~10.0.0
-        version: 10.0.4
+        specifier: ~10.2.0
+        version: 10.2.0
       lodash:
         specifier: '*'
         version: 4.17.0
 
 packages:
 
-  immer@10.0.4:
-    resolution: {integrity: sha512-cuBuGK40P/sk5IzWa9QPUaAdvPHjkk1c+xYsd9oZw+YQQEV+10G0P5uMpGctZZKnyQ+ibRO08bD25nWLmYi2pw==}
+  immer@10.2.0:
+    resolution: {integrity: sha512-d/+XTN3zfODyjr89gM3mPq1WNX2B8pYsu7eORitdwyA2sBubnTl3laYlBk4sXY5FUa5qTZGBDPJICVbvqzjlbw==}
 
   lodash@4.17.0:
     resolution: {integrity: sha512-wXJoUnY8v5rCurNIL6tM0TOv/F6B2NzDzLzStNOQoX/i88s8hPGkYSRPMtcdjORIx1dHUB1lQVhsNyC9yjD/7w==}
 
 snapshots:
 
-  immer@10.0.4: {}
+  immer@10.2.0: {}
 
   lodash@4.17.0: {}
